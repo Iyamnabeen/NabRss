@@ -1,8 +1,8 @@
-NabRss [NABEEN'S RSS feed reader ]
+NabRss [ NABEEN'S minimal RSS feed reader ]
 ======
 Installation
 ------------
-Run this command to build MinRSS:
+Run this command to build NabRss:
 
 	make clean install
 
@@ -13,14 +13,14 @@ If you need to change this, set the PREFIX variable in Makefile.
 
 Configuration
 -------------
-MinRSS is configured via the config.h file, which you can create by
+NabRss is configured via the config.h file, which you can create by
 either compiling MinRSS for the first time or copying config.def.h
-to it. To save your changes, recompile MinRSS.
+to it. To save your changes, recompile NabRss
 
-Using MinRSS
+Using NabRss
 ------------
 Make a directory to store your RSS feeds, then cd into it. Then, enter 
-the minrss command to download the RSS feeds. Your feeds will be 
+the minsrss command to download the RSS feeds. Your feeds will be 
 available as folders in your current working directory.
 
 Compatibility
