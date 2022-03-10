@@ -1,4 +1,4 @@
-NABRSS [NABEEN'S minimal RSS feed reader ]
+NabRss [NABEEN'S RSS feed reader ]
 ======
 Installation
 ------------
