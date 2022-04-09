@@ -1,5 +1,8 @@
 NabRss [ NABEEN'S minimal RSS feed reader ]
 ======
+
+This is a fork of [minrss.](https://github.com/DogeyStamp/MinRSS)
+
 Installation
 ------------
 Run this command to build NabRss:
